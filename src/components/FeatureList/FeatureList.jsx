@@ -1,6 +1,6 @@
 const FeatureList = () => {
     return (
-        <div className="container flex items-center gap-28 justify-center">
+        <div className="container flex items-center gap-40 justify-center">
         {/*  Free Shipping  */}
             <div className="flex items-center gap-4">
                 <svg fill="#3b82f6" width="50" height="50" viewBox="0 0 48 48"><path d="M44.6,26.9l-1.2-5c0.3-0.1,0.6-0.4,0.6-0.7v-0.8c0-1.7-1.4-3.2-3.2-3.2h-5.7v-1.7c0-0.9-0.7-1.6-1.6-1.6H23.1l6.4-2.6

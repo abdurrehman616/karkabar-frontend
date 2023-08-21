@@ -9,6 +9,10 @@
     @apply max-w-full p-9 mx-auto
 }
 
+.larger-container {
+    @apply max-w-full px-52 py-9 mx-auto
+}
+
 .background-blue {
     @apply bg-blue-500
 }

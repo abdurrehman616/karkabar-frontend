@@ -9,6 +9,8 @@ const Home = () => {
             
             {/*  Feature List  */}
             <FeatureList />
+            
+            {/*  Featured Products   */}
         </>
     );
 }
